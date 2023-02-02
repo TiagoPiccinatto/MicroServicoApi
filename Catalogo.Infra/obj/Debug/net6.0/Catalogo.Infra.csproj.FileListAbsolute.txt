@@ -13,3 +13,5 @@ C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6
 C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\refint\Catalogo.Infra.dll
 C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.pdb
 C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\ref\Catalogo.Infra.dll
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.runtimeconfig.json
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.genruntimeconfig.cache

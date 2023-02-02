@@ -19,7 +19,7 @@ namespace Catalogo.Infra.Repositorio
           return _catalogoContext.produtos.ToList();
         }
 
-        public Produto Salvar(Produto produto)
+        public  Produto Salvar(Produto produto)
         {
             _catalogoContext.produtos.Add(produto);
             _catalogoContext.SaveChanges();

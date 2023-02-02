@@ -10,3 +10,5 @@ C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Domain\obj\Debug\net
 C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Domain\obj\Debug\net6.0\refint\Catalogo.Domain.dll
 C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.pdb
 C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Domain\obj\Debug\net6.0\ref\Catalogo.Domain.dll
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Domain\bin\Debug\net6.0\Catalogo.Domain.runtimeconfig.json
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Domain\obj\Debug\net6.0\Catalogo.Domain.genruntimeconfig.cache
