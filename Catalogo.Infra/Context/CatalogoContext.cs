@@ -13,9 +13,10 @@ namespace Catalogo.Infra.Context
     {
         public CatalogoContext(DbContextOptions options) : base(options)
         {
+            
         }
 
-        DbSet<Produto> produtos { get; set; }
+        public DbSet<Produto> produtos { get; set; }
 
     }
 }
