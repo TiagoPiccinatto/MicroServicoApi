@@ -1,0 +1,15 @@
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.deps.json
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.dll
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Infra.pdb
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Domain.dll
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\bin\Debug\net6.0\Catalogo.Domain.pdb
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.AssemblyInfo.cs
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.csproj.CopyComplete
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.dll
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\refint\Catalogo.Infra.dll
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\Catalogo.Infra.pdb
+C:\Users\tiago\Desktop\MicroServicos\MicroServicos\Catalogo.Infra\obj\Debug\net6.0\ref\Catalogo.Infra.dll
