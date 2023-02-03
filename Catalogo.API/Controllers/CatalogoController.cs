@@ -1,10 +1,13 @@
 ﻿using Catalogo.Domain.Entities;
 using Catalogo.Domain.Service;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Catalogo.API.Controllers
 {
     [Route("/api/[Controller]")]
+    [ApiController]
+    [Authorize]
     public class CatalogoController : Controller
     {
         ProdutoService _produtoService;
@@ -13,7 +16,7 @@ namespace Catalogo.API.Controllers
         {
             _produtoService = produtoService;
         }
-
+        
         [HttpGet]
         public ActionResult Obter()
         {
