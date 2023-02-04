@@ -28,15 +28,14 @@ namespace Catalogo.API
                 var credenciais = Encoding.UTF8.GetString(Convert.FromBase64String(authHeader.Parameter)).Split(':');
                 username = credenciais.FirstOrDefault();
                 var senha = credenciais.LastOrDefault();
-                if (username != "teste@gmail.com" && senha != "1234")
+                if (username != "teste@gmail.com" || senha != "1234")
                 {
-                    throw new ArgumentException("Senha ou UserName ERRADO");
+                    throw new ArgumentException("Senha ou Username errado");
                 }
             }
             catch (Exception ex)
             {
-
-                return AuthenticateResult.Fail(ex);
+                return AuthenticateResult.Fail($"Erro: {ex.Message}") ;
             }
 
             var claims = new[]

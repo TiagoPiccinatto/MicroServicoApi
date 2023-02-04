@@ -25,13 +25,15 @@ namespace Catalogo.Infra.Context
             IntegratedSecurity = false,
             TrustServerCertificate = true,
             UserID = "tpiccinatto_CatalogoApi",
-            Password = "123456"
+            Password = "1234"
         };
 
         optionsBuilder.UseSqlServer(builder.ConnectionString);
         }
 
         public DbSet<Produto> produtos { get; set; }
+
+        public DbSet<TabelaNutricional> tabelaNutricionals { get; set; }
     }
 
 

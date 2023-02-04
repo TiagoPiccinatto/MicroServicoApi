@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,9 +9,13 @@ namespace Catalogo.Domain.Entities
 {
     public class Produto
     {
-        public int Id { get; set; }
+        [Key]
+        public int ProdutoId { get; set; }
         public string Nome { get; set; } = "";
-        public int Qtd { get; set; }
+        public double Peso { get; set; }
         public string Descricao { get; set; } = "";
+
+        public TabelaNutricional TabelaNutricional { get; set; }
+
     }
 }

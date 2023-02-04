@@ -9,6 +9,8 @@ namespace Catalogo.Domain.Interface
 {
     public interface IProdutoService
     {
+        public List<Produto> GetProdutos();
         public Produto SalvarProduto(Produto produto);
+        public void DeleteProduto(int id);
     }
 }

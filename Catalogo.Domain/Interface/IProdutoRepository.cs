@@ -13,6 +13,8 @@ namespace Catalogo.Domain.Interface
 
         public List<Produto> GetProdutos();
 
+        public void Delete(int id);
 
+        public Produto Atualizar(int id, Produto produto);
     }
 }
