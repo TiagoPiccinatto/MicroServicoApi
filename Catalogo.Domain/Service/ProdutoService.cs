@@ -33,5 +33,16 @@ namespace Catalogo.Domain.Service
             return null;
         }
 
+        public void DeleteProduto(int id)
+        {
+            _produtoRepository.Delete(id);
+
+        }
+
+        public Produto AtualizarProduto(int id, Produto produto)
+        {
+           return _produtoRepository.Atualizar(id, produto);
+        }
+
     }
 }

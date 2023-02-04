@@ -16,17 +16,40 @@ namespace Catalogo.API.Controllers
         {
             _produtoService = produtoService;
         }
-        
+
         [HttpGet]
         public ActionResult Obter()
         {
-            var produto = _produtoService.GetProdutos();
-            return Ok(produto);
+            try
+            {
+                var produto = _produtoService.GetProdutos();
+                return Ok(produto);
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+
         }
         [HttpPost]
-        public ActionResult Salvar([FromBody] Produto produto)
+        public ActionResult Salvar([FromForm] Produto produto)
         {
             _produtoService.SalvarProduto(produto);
+            return Ok();
+        }
+
+        [HttpDelete("({id})")]
+        public ActionResult Deletar(int id)
+        {
+            _produtoService.DeleteProduto(id);
+            return Ok();
+        }
+
+        [HttpPut("({id})")]
+        public ActionResult Atualizar(int id, Produto produto)
+        {
+            _produtoService.AtualizarProduto(id, produto);
             return Ok();
         }
     }
