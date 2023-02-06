@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj": {}
+    "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj": {
+    "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj",
+        "projectUniqueName": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj",
         "projectName": "Catalogo.API",
-        "projectPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj",
+        "projectPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.API\\obj\\",
+        "outputPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj": {
-                "projectPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj"
+              "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj"
               },
-              "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj": {
-                "projectPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj"
+              "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj": {
+                "projectPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj": {
+    "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj",
         "projectName": "Catalogo.Domain",
-        "projectPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj",
+        "projectPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -234,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj": {
+    "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj",
         "projectName": "Catalogo.Infra",
-        "projectPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj",
+        "projectPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\obj\\",
+        "outputPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -263,8 +263,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj": {
-                "projectPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj"
+              "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj": {
+                "projectPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj"
               }
             }
           }

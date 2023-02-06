@@ -3578,11 +3578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj",
       "projectName": "Catalogo.Infra",
-      "projectPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj",
+      "projectPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\Catalogo.Infra.csproj",
       "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Infra\\obj\\",
+      "outputPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3604,8 +3604,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj": {
-              "projectPath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj"
+            "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj": {
+              "projectPath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.Domain\\Catalogo.Domain.csproj"
             }
           }
         }
