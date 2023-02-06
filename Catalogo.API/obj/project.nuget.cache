@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hJ3kNyem5o+VFwxIUAh+5rxhUm9k+vTqcJBeUiYEFnpZN6gYxOLIBzRt9r5vzSKTVy4E0lzCxPfyBTvmuN//ig==",
+  "dgSpecHash": "Rnle/unAP9JdV/3w3bm4l4b0sAYZO/dxo5mbAMg/TjAu/EpDNu2SGkmJT0GwI+Dja3PpO/5RfN6td0eDtEb8XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\Desktop\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\Desktop\\Estudos .NET\\MicroServicos\\MicroServicos\\Catalogo.API\\Catalogo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
