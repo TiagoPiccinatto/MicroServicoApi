@@ -11,6 +11,6 @@ namespace Catalogo.Domain.Interface
     {
         public List<Produto> GetProdutos();
         public Produto SalvarProduto(Produto produto);
-        public void DeleteProduto(int id);
+        public bool DeleteProduto(int id);
     }
 }
