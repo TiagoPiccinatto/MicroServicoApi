@@ -42,8 +42,12 @@ namespace Catalogo.API.Controllers
         [HttpDelete("({id})")]
         public ActionResult Deletar(int id)
         {
-            _produtoService.DeleteProduto(id);
-            return Ok();
+            var retorno = _produtoService.DeleteProduto(id);
+            if (retorno)
+            {
+                return Ok();
+            }
+            return NotFound();
         }
 
         [HttpPut("({id})")]

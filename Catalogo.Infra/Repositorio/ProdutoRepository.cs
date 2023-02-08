@@ -59,7 +59,7 @@ namespace Catalogo.Infra.Repositorio
         //    _catalogoContext.tabelaNutricionals.Remove(_catalogoContext.tabelaNutricionals.Where(x => x.Id == id).FirstOrDefault());
         //    _catalogoContext.SaveChanges();
         //}
-        public void Delete(int id)
+        public bool Delete(int id)
         {
             var Getproduto = _catalogoContext.produtos.Find(id);
             var tabelaNutricional = _catalogoContext.tabelaNutricionals.Find(id);
@@ -67,8 +67,10 @@ namespace Catalogo.Infra.Repositorio
             {
                 _catalogoContext.produtos.Remove(Getproduto);
                 _catalogoContext.tabelaNutricionals.Remove(tabelaNutricional);
+                _catalogoContext.SaveChanges();
+                return true;
             }                                
-            _catalogoContext.SaveChanges();
+            return false;
         }
 
         public Produto Atualizar(int id, Produto produto)

@@ -14,7 +14,6 @@ namespace Catalogo.Domain.Entities
         public string Nome { get; set; } = "";
         public double Peso { get; set; }
         public string Descricao { get; set; } = "";
-
         public TabelaNutricional TabelaNutricional { get; set; }
 
     }
